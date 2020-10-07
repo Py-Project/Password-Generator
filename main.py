@@ -1,9 +1,9 @@
-"""
+'''
 Author: Aditya Mangal 
 Date:  17 september,2020
 Purpose: python mini project
 
-"""
+'''
 from random import choice, shuffle
 from string import (
     ascii_letters as letters,
