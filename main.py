@@ -1,7 +1,7 @@
 '''
 Author: Aditya Mangal 
 Date:  17 september,2020
-Purpose: python mini project
+Purpose: python project
 
 '''
 from random import choice, shuffle
