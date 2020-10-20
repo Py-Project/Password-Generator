@@ -4,5 +4,5 @@ Having a weak password is not good for a system that demands high confidentialit
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 </p> 
-<p align="center"><img src="https://img.shields.io/badge/Author-adityamangal1-green.svg"> 
+<p align="center"><img src="https://img.shields.io/badge/Author-adityamangal-green.svg"> 
 </p>
